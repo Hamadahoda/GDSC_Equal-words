@@ -8,7 +8,7 @@ To try out the project, you can access our Gradio web app demo [here](https://hu
 
 # Video
 
-We have also created an unlisted video on YouTube that provides a brief overview of the project and demonstrates how to use the Gradio web app. You can access the video here.
+We have also created an unlisted video on YouTube that provides a brief overview of the project and demonstrates how to use the Gradio web app. You can access the video [here](https://youtu.be/JuhwL1JQeUA).
 
 
 # Usage
